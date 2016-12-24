@@ -8,7 +8,7 @@
 
 ![4](https://github.com/religins/RecyclerView3/blob/master/Screenshot_2016-12-24-19-17-18%5B1%5D.png)
 
-[get it here](https://docs.google.com/uc?export=download&id=0B7oSPH8d9q3FVzJCeExLR0dYbTA)
+[APK File](https://docs.google.com/uc?export=download&id=0B7oSPH8d9q3FVzJCeExLR0dYbTA)
 
 Nama : Religi Nurhidayah Sakthi <br>
 Kelas : XI RPL 1 <br> 
